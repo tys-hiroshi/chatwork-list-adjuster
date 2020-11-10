@@ -1,9 +1,9 @@
 {
     "manifest_version": 2,
     "author": "tys-moriyama",
-    "homepage_url": "https://github.com/tys-moriyama",
-    "name": "ChatworkのTOリストサイズ自動調整",
-    "description": "ChatworkのTOリストのサイズをリストアイテム数に合わせて調整する拡張機能です。類似UIのスタイル指定（固定）も少し。",
+    "homepage_url": "https://github.com/tys-moriyama/chatwork-list-adjuster",
+    "name": "Chatworkの一部リストサイズ調整",
+    "description": "ChatworkのTOリストのサイズをリストアイテム数に合わせて調整します。リアクションリスト等の類似UIスタイル指定（固定）も。",
     "version": "1.0.0",
     "content_scripts": [
         {
